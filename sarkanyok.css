@@ -20,3 +20,6 @@ a:hover {
 html {
     background-image: url(hatterkep.jpg);
 }
+body {
+    font-family: sans-serif;
+}
